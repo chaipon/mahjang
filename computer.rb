@@ -1,5 +1,5 @@
-require "pai.rb"
-require "player.rb"
+require "./pai.rb"
+require "./player.rb"
 
 class Computer < Player
   def agari()

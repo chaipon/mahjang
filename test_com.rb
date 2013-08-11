@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
-require 'pai.rb'
-require 'computer.rb'
-require 'yama.rb'
+require './pai.rb'
+require './computer.rb'
+require './yama.rb'
 tenho = 0
 chiho = 0
 

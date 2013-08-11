@@ -1,6 +1,12 @@
-require "yama.rb"
+require "./yama.rb"
 
+#
+# プレイヤーのクラス
+#
 class Player
+  #
+  #初期化
+  #
   def initialize(start_point)
     @point = start_point
     @tehai = []

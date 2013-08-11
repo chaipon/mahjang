@@ -1,8 +1,8 @@
 #!/usr/bin/ruby
 # -*- encoding: UTF-8 -*-
 
-require "pai.rb"
-require "yama.rb"
+require "./pai.rb"
+require "./yama.rb"
 
 def time_test(n)
   n.times{|i|
